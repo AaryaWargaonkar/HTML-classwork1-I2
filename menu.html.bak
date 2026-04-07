@@ -22,87 +22,114 @@
 
   <hr>
  <center><h1>Our Menu</h1></center>
- <center><h3>Starters</h3></center>
- <center><table border=1>
- <tr>
-	<th><center>Dish Name</center></th>
-	<th><center>Description</center></th>
-	<th><center>Price</center></th>
- </tr>
- <tr>
-	<td>Paneer Tikka</td>
-	<td>Marinated cottage cheese cubes grilled with spices, capsicum, and onions.</td>
-	<td>2000/-</td>
- </tr>
- <tr>
-	<td>Hara Bhara Kebab</td>
-	<td>Healthy, crispy pan-fried patties made with spinach, peas, and potatoes.</td>
-	<td>3000/-</td>
- </tr>
- <tr>
-	<td>Veg Spring Rolls</td>
-	<td>Crunchy, deep-fried wrappers filled with sautéed shredded vegetables like cabbage and carrots.</td>
-	<td>2500/-</td>
- </tr>
- <tr>
-	<td>Corn Cheese Balls</td>
-	<td> A crowd-pleasing appetizer of crispy, deep-fried balls with a melted cheese and sweet corn filling.</td>
-	<td>1000/-</td>
- </tr>
- </table></center>
- <center><h3>Main Course</h3></center>
- <center><table border=1>
- <th><center>Dish Name</center></th>
-	<th><center>Description</center></th>
-	<th><center>Price</center></th>
- <tr>
-	<td>Paneer Butter Masala</td>
-	<td>A creamy, tomato-based gravy with soft cottage cheese.</td>
-	<td>5000/-</td>
- </tr>
- <tr>
-	<td>Vegetable Biryani</td>
-	<td>A fragrant, layered rice dish packed with mixed vegetables and spices.</td>
-	<td>7000/-</td>
- </tr>
- <tr>
-	<td>Dal Makhani</td>
-	<td>A creamy, rich Punjabi curry made with black lentils and beans.</td>
-	<td>4000/-</td>
- </tr>
- <tr>
-	<td>Chana Masala</td>
-	<td>A hearty, tangy dish made with chickpeas, tomato, and spices.</td>
-	<td>3000/-</td>
- </tr>
- <tr>
-	<td>Malai Kofta</td>
-	<td> Deep-fried dumplings (paneer and potatoes) in a smooth, creamy gravy.</td>
-	<td>3000/-</td>
- </tr>
- </table>
- </center>
- <center><h3>Dessert</h3></center>
- <center><table border=1>
- <th><center>Dish Name</center></th>
-	<th><center>Description</center></th>
-	<th><center>Price</center></th>
- <tr>
-	<td>Gulab Jamun</td>
-	<td>Soft, deep-fried dumplings made of milk solids (khoya) and paneer, soaked in a rose-scented sugar syrup.</td>
-	<td>800/-</td>
- </tr>
- <tr>
-	<td>Moong Dal Halwa</td>
-	<td>A rich, warm, and indulgent halwa made from roasted yellow lentils, ghee, sugar, and dry fruits.</td>
-	<td>700/-</td>
- </tr>
- <tr>
-	<td>Mango Cheesecake</td>
-	<td>A creamy, no-bake dessert featuring a biscuit base topped with a luscious layer of fresh mango pulp and cream cheese.</td>
-	<td>1000/-</td>
- </tr>
- </table></center>
+ <h2><center>Starters</center></h2>
+<center>
+<table border="1">
+  <caption>Starter Dishes</caption>
+  <thead>
+    <tr>
+      <th>Dish Name</th>
+      <th>Description</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paneer Tikka</td>
+      <td>Marinated cottage cheese grilled with spices.</td>
+      <td>2000/-</td>
+    </tr>
+    <tr>
+      <td>Hara Bhara Kebab</td>
+      <td>Spinach and peas patties.</td>
+      <td>3000/-</td>
+    </tr>
+    <tr>
+      <td>Veg Spring Rolls</td>
+      <td>Crispy rolls filled with vegetables.</td>
+      <td>2500/-</td>
+    </tr>
+    <tr>
+      <td>Corn Cheese Balls</td>
+      <td>Fried balls with cheese and corn filling.</td>
+      <td>1000/-</td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+
+<h2><center>Main Course</center></h2>
+<center>
+<table border="1">
+  <caption>Main Course Dishes</caption>
+  <thead>
+    <tr>
+      <th>Dish Name</th>
+      <th>Description</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paneer Butter Masala</td>
+      <td>Creamy tomato gravy with paneer.</td>
+      <td>5000/-</td>
+    </tr>
+    <tr>
+      <td>Vegetable Biryani</td>
+      <td>Rice with vegetables and spices.</td>
+      <td>7000/-</td>
+    </tr>
+    <tr>
+      <td>Dal Makhani</td>
+      <td>Rich lentil curry.</td>
+      <td>4000/-</td>
+    </tr>
+    <tr>
+      <td>Chana Masala</td>
+      <td>Chickpeas cooked in spices.</td>
+      <td>3000/-</td>
+    </tr>
+    <tr>
+      <td>Malai Kofta</td>
+      <td>Paneer dumplings in creamy gravy.</td>
+      <td>3000/-</td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+
+<h2><center>Desserts</center></h2>
+<center>
+<table border="1">
+  <caption>Desserts</caption>
+  <thead>
+    <tr>
+      <th>Dish Name</th>
+      <th>Description</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gulab Jamun</td>
+      <td>Sweet dumplings in sugar syrup.</td>
+      <td>800/-</td>
+    </tr>
+    <tr>
+      <td>Moong Dal Halwa</td>
+      <td>Rich lentil dessert.</td>
+      <td>700/-</td>
+    </tr>
+    <tr>
+      <td>Mango Cheesecake</td>
+      <td>Creamy mango dessert.</td>
+      <td>1000/-</td>
+    </tr>
+  </tbody>
+</table></center>
  
   
   <hr>

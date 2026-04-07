@@ -24,7 +24,7 @@
 
   <div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYc3ootB-E6Vl8O4eVN4gWEF5Gj-gD_cmEA&s"
-         width="500" height="400"
+         width="200" height="200"
          alt="Steve Rogers">
     <h3>Chef Steve Rogers</h3>
     <p>Executive Chef</p>
@@ -35,7 +35,7 @@
 
   <div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJ2VgX-uowstNf0DXRARJ93w9fqlzQqUp1g&s"
-         width="500" height="400"
+         width="200" height="200"
          alt="James Barnes">
     <h3>Chef James Barnes</h3>
     <p>Chef de Cuisine</p>
@@ -46,7 +46,7 @@
 
   <div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgHAqIUkUR92_mtswDCYJD99s-KEpEhP4dA&s"
-         width="500" height="400"
+         width="200" height="200"
          alt="Sam Wilson">
     <h3>Chef Sam Wilson</h3>
     <p>Sous Chef</p>
@@ -57,7 +57,7 @@
 
   <div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPGkRaOpnLcq4XPx3chCIeB93UKacsEWozw&s"
-         width="500" height="400"
+         width="200" height="200"
          alt="Natasha Romanoff">
     <h3>Chef Natasha Romanoff</h3>
     <p>Grill Chef</p>
